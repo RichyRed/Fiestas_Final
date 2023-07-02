@@ -14,9 +14,9 @@ El objetivo de Fiestuquis es simplificar el proceso de planificación de fiestas
 ## Tecnologías utilizadas ✈
 Fiestuquis se ha construido utilizando las siguientes tecnologías:
 
-React: Biblioteca de JavaScript utilizada para construir la interfaz de usuario de la aplicación.
+* React: Biblioteca de JavaScript utilizada para construir la interfaz de usuario de la aplicación.
 Material-UI (Mui): Una biblioteca de componentes de interfaz de usuario de React que proporciona estilos predefinidos y componentes personalizables.
-Strapi: Un CMS (Sistema de gestión de contenido) de código abierto que se utiliza para el backend y la gestión de datos.
+* Strapi: Un CMS (Sistema de gestión de contenido) de código abierto que se utiliza para el backend y la gestión de datos.
 Además de estas tecnologías principales, se pueden haber utilizado otras herramientas y bibliotecas para facilitar el desarrollo y mejorar la funcionalidad de la aplicación.
 
 ## Requisitos 🤖
@@ -28,13 +28,31 @@ Antes de ejecutar el proyecto de Fiestuquis, asegúrate de tener los siguientes 
 ## Cómo ejecutar el proyecto 👾
 Sigue estos pasos para ejecutar el proyecto de Fiestuquis en tu entorno local:
 
-* Clona el repositorio de Fiestuquis en tu máquina.
+* * Clonar el repositorio:
+
+        git clone <URL_DEL_REPOSITORIO>
 * Abre una terminal en el directorio del proyecto.
-* Ejecuta el comando npm install para instalar todas las dependencias del proyecto.
-* Ejecuta el comando npm start para iniciar la aplicación en modo de desarrollo.
-Abre tu navegador web y accede a la URL http://localhost:3000 para ver la aplicación en acción.
+
+* Nos dirigimos a la ruta:
+
+       cd <ruta donde clonaste el proyecto>
+* Instala las dependencias:
+
+       npm install
+* Para poder ver el proyecto ejecuta:
+
+       npm run dev 
+## Para el Backend
+* Clona el Backend como en el paso anterior
+* Instala las dependencias:
+
+       npm install
+* Ahora para levantarlo ejecuta este comando:
+
+       npm run develop
 ## Colaboradores 😎
 [Denisse Baldivieso](https://github.com/denisse989)
+
 [Richard Rojas](https://github.com/RichyRed)
 
 Esperamos que disfrutes usando Fiestuquis para organizar tus fiestas y que te ayude a hacer de tus eventos momentos inolvidables. 
