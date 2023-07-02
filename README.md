@@ -18,6 +18,8 @@ Fiestuquis se ha construido utilizando las siguientes tecnologías:
 Material-UI (Mui): Una biblioteca de componentes de interfaz de usuario de React que proporciona estilos predefinidos y componentes personalizables.
 * Strapi: Un CMS (Sistema de gestión de contenido) de código abierto que se utiliza para el backend y la gestión de datos.
 Además de estas tecnologías principales, se pueden haber utilizado otras herramientas y bibliotecas para facilitar el desarrollo y mejorar la funcionalidad de la aplicación.
+* React Hook Form: Es una biblioteca de React que simplifica el manejo de formularios al utilizar hooks, proporcionando una forma sencilla y eficiente de validar y manejar los datos del formulario.
+* Material-UI: Es una biblioteca de componentes de interfaz de usuario para React que implementa los principios del diseño material. Proporciona una amplia gama de componentes predefinidos y estilizados, así como herramientas para personalizarlos y adaptarlos a las necesidades de la aplicación.
 
 ## Requisitos 🤖
 Antes de ejecutar el proyecto de Fiestuquis, asegúrate de tener los siguientes requisitos:
