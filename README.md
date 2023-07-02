@@ -30,7 +30,7 @@ Antes de ejecutar el proyecto de Fiestuquis, asegúrate de tener los siguientes 
 ## Cómo ejecutar el proyecto 👾
 Sigue estos pasos para ejecutar el proyecto de Fiestuquis en tu entorno local:
 
-* * Clonar el repositorio:
+* Clonar el repositorio:
 
         git clone <URL_DEL_REPOSITORIO>
 * Abre una terminal en el directorio del proyecto.
