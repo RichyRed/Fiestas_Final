@@ -57,6 +57,9 @@ Sigue estos pasos para ejecutar el proyecto de Fiestuquis en tu entorno local:
 
 [Richard Rojas](https://github.com/RichyRed)
 
+## Link del video
+* https://drive.google.com/drive/folders/1aDUoQjTxwPNDwq6tqPuCRVQ7KYlVuExc?usp=sharing
+
 Esperamos que disfrutes usando Fiestuquis para organizar tus fiestas y que te ayude a hacer de tus eventos momentos inolvidables. 
 
 ¡Diviértete organizando tus fiestas con Fiestuquis!
